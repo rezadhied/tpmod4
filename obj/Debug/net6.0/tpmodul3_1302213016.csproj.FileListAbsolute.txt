@@ -1,0 +1,15 @@
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.csproj.AssemblyReference.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.GeneratedMSBuildEditorConfig.editorconfig
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.AssemblyInfoInputs.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.AssemblyInfo.cs
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.csproj.CoreCompileInputs.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\bin\Debug\net6.0\tpmodul3_1302213016.exe
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\bin\Debug\net6.0\tpmodul3_1302213016.deps.json
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\bin\Debug\net6.0\tpmodul3_1302213016.runtimeconfig.json
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\bin\Debug\net6.0\tpmodul3_1302213016.dll
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\bin\Debug\net6.0\tpmodul3_1302213016.pdb
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.dll
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\refint\tpmodul3_1302213016.dll
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.pdb
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\tpmodul3_1302213016.genruntimeconfig.cache
+E:\#ME\KULIAH\TUGAS\S4\KPL\PRAKTIKUM\MOD4\tpmodul3_1302213016\obj\Debug\net6.0\ref\tpmodul3_1302213016.dll
